@@ -1,0 +1,63 @@
+body{
+    margin: auto;
+    background-color: #90E0EF;
+    text-align: center;
+}
+
+h1{
+    color: #03045E;
+    text-decoration: underline;
+}
+
+.route{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cards{
+    height: 300px;
+    width: 250px;
+    margin: 2rem;
+    border: 10px solid #0096C7;
+    border-radius: 10%;
+}
+.cards:hover{
+    box-shadow: 15px 15px 15px #00B4D8;
+}
+
+.public img{
+    height: 230px;
+    width: 250px;
+    border-radius: 10% 10% 0 0;
+}
+.private img{
+    height: 230px;
+    width: 250px;
+    border-radius: 10% 10% 0 0;
+}
+
+/* Public.html ke liye css */
+.public-page-div{
+    background-color: #e1f5fe;
+    color: #0277bd;
+    border: 5px solid #03045E;
+    padding: 15px;
+    margin: auto;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    width: 50%;
+    border-radius: 30px ;
+}
+.public-page-div:hover{
+    color: teal;
+    box-shadow: 12px 12px 6px teal;
+}
+.public-page-btn {
+    height: 30px;
+    width: 100px;
+    border: 2px solid #03045E;
+    background-color:lightgray;
+    margin-top: 2%;
+    border-radius: 30px ;
+}
