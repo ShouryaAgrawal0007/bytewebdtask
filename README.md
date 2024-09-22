@@ -1,4 +1,5 @@
-#  am Avni Goel, pursuing Btech in the CST branch.
+# BYTE WEBD task journey 
+I am Avni Goel, pursuing Btech in the CST branch.
 I am a beginner in the field of learning technologies...but with a set goal in my mindset, I decided to choose to work on the website development task.
 I already knew the basic HTML before beginning. But only HTML was not enough to build this project. So I have completed learning CSS and Javascript from scratch within the given allotted time span for the task. I even learn API calling and AXIOS.
 I made the task using the css properties and flexbox concept. 
